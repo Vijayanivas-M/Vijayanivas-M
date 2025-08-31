@@ -1,0 +1,18 @@
+name: Generate Pac-Man Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: josemi/github-contribution-graph-action@v2
+        with:
+          user: vijayanivas-m
+          palette: dark
+          theme: pacman
+          output_file: assets/pacman-contribution-graph-dark.svg
