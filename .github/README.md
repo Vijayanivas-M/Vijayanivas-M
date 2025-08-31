@@ -31,9 +31,8 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
 - Built an AI facial recognition system to identify patients and retrieve medical records from a centralized database.
 - Developed role-based web portals for doctors, caregivers, and patients to manage prescriptions and behavioral logs.
 
-#### **Automated Solar tracking panel with attached Cooler system**
-- Designed and coded an Arduino-based automated solar tracking system using LDR sensors.
-- Integrated a cooling system to regulate panel temperature, improving performance and extending lifespan.
+#### **AI Enhanced Documentation**
+- An AI-powered tool that automatically generates code documentation from multiple files and directories.
 
 ---
 
