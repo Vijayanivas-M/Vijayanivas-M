@@ -27,9 +27,9 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
 - Developed a YOLOv8-based real-time fire detection model trained on a real-world dataset.
 - Integrated live camera feed processing to detect fires and trigger immediate security alerts.
 
-#### **Smart Monitoring System for Mentally Disabled Individuals**
-- Built an AI facial recognition system to identify patients and retrieve medical records from a centralized database.
-- Developed role-based web portals for doctors, caregivers, and patients to manage prescriptions and behavioral logs.
+#### **Privacy-First Cyberbullying Detector & Content Moderation (Safe guard App)**
+- SafeGuard is a cross-platform mobile application built with React Native and Expo that serves as a "communication sandbox."
+- It empowers users to detect and prevent cyberbullying by analyzing text for toxicity in a secure, private, and intuitive way. This project was developed for a hackathon to address the growing issue of online harassment.
 
 #### **AI Enhanced Documentation**
 - An AI-powered tool that automatically generates code documentation from multiple files and directories.
