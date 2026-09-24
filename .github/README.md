@@ -25,10 +25,6 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
 
 ## Highlight Projects
 
-**CampusLend: Trust-Based P2P Sharing Platform 🤝**
-- Collaborated on a full-stack web application using React, Tailwind CSS, Node.js, and MongoDB to foster a sustainable sharing economy within university campuses.
-- Engineered real-time communication and notification features using Socket.IO and Firebase, and integrated a dynamic user trust scoring system.
-
 **AI Documentation Generator 🚀**
 - Built an AI-powered developer tool with a React/TypeScript frontend and a Python backend to automatically scan and generate comprehensive documentation for complex multi-file codebases.
 - Implemented directory scanning and multi-file context synthesis for cohesive project overviews, filtering out ignored paths for optimal performance.
@@ -36,6 +32,10 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
 **SafeGuard: Privacy-First Cyberbullying Detector 🛡️**
 - Developed a cross-platform mobile application using React Native and Expo acting as a secure "communication sandbox" to combat online harassment.
 - Integrated a Hybrid AI Detection System, combining a private on-device keyword-matching engine with the OpenAI Moderation API for advanced, nuanced content analysis.
+
+**CampusLend: Trust-Based P2P Sharing Platform 🤝**
+- Collaborated on a full-stack web application using React, Tailwind CSS, Node.js, and MongoDB to foster a sustainable sharing economy within university campuses.
+- Engineered real-time communication and notification features using Socket.IO and Firebase, and integrated a dynamic user trust scoring system.
 
 **Highly Available 2-Tier AWS Architecture via Terraform ☁️**
 - Automated cloud infrastructure provisioning from manual "ClickOps" to a fully version-controlled Infrastructure as Code (IaC) pipeline using Terraform.
