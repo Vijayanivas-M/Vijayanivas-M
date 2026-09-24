@@ -11,8 +11,6 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
 - 🌱 I’m currently improving my skills in web and AI development.
 - ⚡ In my free time, I enjoy gaming and listening to podcasts.
 
----
-
 ## Technical Skills
 <p align="left">
   <!-- Languages, Frontend & Backend -->
@@ -21,23 +19,24 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
   <!-- Databases, Cloud, Devops & Tools -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,terraform,linux,git,github,postman,vscode" />
 </p>
----
 
-### Highlight Projects
+## Highlight Projects
 
-#### **AI-Powered Fire Detection and Alert System**
-- Developed a YOLOv8-based real-time fire detection model trained on a real-world dataset.
-- Integrated live camera feed processing to detect fires and trigger immediate security alerts.
+**AI Documentation Generator 🚀**
+- Built an AI-powered developer tool with a React/TypeScript frontend and a Python backend to automatically scan and generate comprehensive documentation for complex multi-file codebases.
+- Implemented directory scanning and multi-file context synthesis for cohesive project overviews, filtering out ignored paths for optimal performance.
 
-#### **Smart Monitoring System for Mentally Disabled Individuals**
-- Built an AI facial recognition system to identify patients and retrieve medical records from a centralized database.
-- Developed role-based web portals for doctors, caregivers, and patients to manage prescriptions and behavioral logs.
+**SafeGuard: Privacy-First Cyberbullying Detector 🛡️**
+- Developed a cross-platform mobile application using React Native and Expo acting as a secure "communication sandbox" to combat online harassment.
+- Integrated a Hybrid AI Detection System, combining a private on-device keyword-matching engine with the OpenAI Moderation API for advanced, nuanced content analysis.
 
-#### **Automated Solar tracking panel with attached Cooler system**
-- Designed and coded an Arduino-based automated solar tracking system using LDR sensors.
-- Integrated a cooling system to regulate panel temperature, improving performance and extending lifespan.
+**Highly Available 2-Tier AWS Architecture via Terraform ☁️**
+- Automated cloud infrastructure provisioning from manual "ClickOps" to a fully version-controlled Infrastructure as Code (IaC) pipeline using Terraform.
+- Designed a fault-tolerant architecture utilizing a custom VPC, Application Load Balancers (ALB), Auto Scaling Groups (ASG), and strict Security Group chaining across multiple Availability Zones.
 
----
+**Permit to Work (PTW) Module - Opmaint 🏗️**
+- Engineered a production-ready, mobile-first safety authorization full-stack application using React, Node.js, Express, and PostgreSQL.
+- Designed a scalable relational database schema and implemented strict ACID transactions to securely manage specialized field technician safety permits without risking orphaned records.
 
 ### Stats and Trophies
 
