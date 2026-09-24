@@ -1,15 +1,16 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Vijaya Nivas M, a Full-Stack Development Aspirant from Sivakasi, India.</h3>
 
----
+<hr>
 
-### About Me
-
+## About Me
 I'm a dedicated and goal-oriented full-stack development aspirant, passionate about building innovative projects and continuously expanding my skill set. I have a sound academic foundation and a strong drive to contribute to professional achievements in software development.
 
-- 🔭 I’m a Web Development Intern at Dot Com Infoway.
-- 🌱 I’m currently improving my skills in web and AI development.
+- 🔭 I'm a Web Development Intern at Dot Com Infoway.
+- 🌱 I'm currently improving my skills in web and AI development, alongside mastering **Java (OOP & Data Structures)**.
 - ⚡ In my free time, I enjoy gaming and listening to podcasts.
+
+<hr>
 
 ## Technical Skills
 <p align="left">
@@ -20,7 +21,13 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,terraform,linux,git,github,postman,vscode" />
 </p>
 
+<hr>
+
 ## Highlight Projects
+
+**CampusLend: Trust-Based P2P Sharing Platform 🤝**
+- Collaborated on a full-stack web application using React, Tailwind CSS, Node.js, and MongoDB to foster a sustainable sharing economy within university campuses.
+- Engineered real-time communication and notification features using Socket.IO and Firebase, and integrated a dynamic user trust scoring system.
 
 **AI Documentation Generator 🚀**
 - Built an AI-powered developer tool with a React/TypeScript frontend and a Python backend to automatically scan and generate comprehensive documentation for complex multi-file codebases.
@@ -38,30 +45,28 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
 - Engineered a production-ready, mobile-first safety authorization full-stack application using React, Node.js, Express, and PostgreSQL.
 - Designed a scalable relational database schema and implemented strict ACID transactions to securely manage specialized field technician safety permits without risking orphaned records.
 
-### Stats and Trophies
+<hr>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vijayanivas-m&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## Stats and Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayanivas-M&theme=dracula&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Ensure your GitHub Action for the Snake animation is running on the 'output' branch -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijayanivas-m/vijayanivas-m/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijayanivas-m/vijayanivas-m/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vijayanivas-m/vijayanivas-m/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijayanivas-M/Vijayanivas-M/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijayanivas-M/Vijayanivas-M/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vijayanivas-M/Vijayanivas-M/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
-### Let's Connect!
+<hr>
 
-<div align="center">
-  <a href="mailto:vijayanivassvks@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="[www.linkedin.com/in/vijaya-nivas-m-b20778268](https://www.linkedin.com/in/vijaya-nivas-m-b20778268)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.codechef.com/users/vijayanivas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B2200&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
-  </a>
-</div>
+## Let's Connect!
+<p align="left">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.codechef.com/users/your-codechef-username"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
