@@ -13,16 +13,14 @@ I'm a dedicated and goal-oriented full-stack development aspirant, passionate ab
 
 ---
 
-### Technical Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,html,css,js,nodejs,react,mysql,mongodb" height="60" alt="languages and tools icons" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
-
+## Technical Skills
+<p align="left">
+  <!-- Languages, Frontend & Backend -->
+  <img src="https://skillicons.dev/icons?i=java,py,html,css,js,ts,react,nodejs,express" />
+  <br><br>
+  <!-- Databases, Cloud, Devops & Tools -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,terraform,linux,git,github,postman,vscode" />
+</p>
 ---
 
 ### Highlight Projects
